@@ -1,2 +1,2 @@
 console.log("Hello World!");
-console.log("Hello Max");
+console.log("Hi Max");
